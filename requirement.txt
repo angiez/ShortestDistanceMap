@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+pdfplumber
+shapely
+folium
+streamlit-folium
+ortools
